@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 295a287b7deb0d442904d089ba43c517, type: 3}
+  m_Name: "\uC2A4\uCF08\uB808\uD1A4 \uCC98\uCE58 \uD018\uC2A4\uD2B8 B"
+  m_EditorClassIdentifier: 
+  info:
+    name: "\uC2A4\uCF08\uB808\uD1A4 \uCC98\uCE58 \uD018\uC2A4\uD2B8 B"
+    requireLevel: 1
+    objective:
+      objectiveText: "\uC2A4\uCF08\uB808\uD1A4 3\uB9C8\uB9AC \uCC98\uCE58"
+      monsterData: {fileID: 11400000, guid: 479dd393bb5455f49a2b78dffe0e965d, type: 2}
+      objectiveCount: 3
+      curKillCount: 0
+    reward:
+      exp: 300
+      glod: 400
+      item: {fileID: 0}
+    dialog: []
+  isClear: 0
